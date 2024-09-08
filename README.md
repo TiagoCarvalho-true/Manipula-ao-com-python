@@ -5,4 +5,9 @@ Então estive pensando em como aperfeiçoar esses conhecimentos então propus um
 
 O mais engraçado é que comecei usando o sql3 dentro do python, mas o terminal estava pedindo mais especificações, então parei e estudei mais e encontrei uma biblioteca belezinha chamada pyodb, que possibilitou uma boa conexão e controle, então gostaria de compartilhar com voçes como ficou o código e programa.
 <h1>ferramentas</h1>
-hashtag#dba hashtag#python #tkinter #sqlServer #pyodb 
+<p>#dba</p> <p> #python</p> <p>#tkinter</p> <p>#sqlServer</p>  <p>#pyodb </p>
+<style>
+  p{
+    padding:15px;
+    }
+</style>

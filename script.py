@@ -22,7 +22,7 @@ def conectar():
     try:
         conexao = pyodbc.connect(
              "DRIVER={SQL Server};"
-             "SERVER=TiagoCar;"
+             "SERVER=;"
               "DATABASE=MINI_EMPRESA;"
         )
         return conexao
